@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Portfólio**
+## **Portfólio - Imersão Dev com Google Gemini**
 
 ### **O que faz essa belezinha?**
 
